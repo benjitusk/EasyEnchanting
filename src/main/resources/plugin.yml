@@ -1,0 +1,6 @@
+name: EasyEnchanting
+version: ${project.version}
+main: me.benjixinator.easyenchanting.EasyEnchanting
+api-version: 1.13
+authors: [Benjixinator, y0natan10]
+description: Enchant faster with EasyEnchanting
